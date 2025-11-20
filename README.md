@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alex 👾👋
 
-<!--
-**AbsoluteSG/AbsoluteSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Indie Game Developer | Creator of Worlds 🎮✨
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I'm an indie game developer working on exciting and creative projects. My passion is bringing unique gaming experiences to life, and I'm always exploring new ways to tell stories through code, art, and gameplay.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚧 **Under Construction** 🚧
+
+This README is still being built! Come back soon to learn more about my work and projects. In the meantime, check out my repositories and feel free to reach out for collaboration or questions.
+
+### 🛠️ Current Projects:
+- **Banana Clicker**: A comedic idle game about bananas with a gacha twist where you collect cool items to outfit with!
+- **No Dogs Allowed**: A passion project of mine, it's a metroidvania about a cat named Whiskers whose parents have been kidnapped by the Dog Mafia. 
+
+---
+
+Thanks for visiting, and stay tuned for more updates! 🚀
