@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👾👋
 
-## Indie Game Developer | Creator of Worlds 🎮✨
+## Indie Game Developer 🎮✨
 
 Welcome to my GitHub!  
 I'm an indie game developer working on exciting and creative projects. My passion is bringing unique gaming experiences to life, and I'm always exploring new ways to tell stories through code, art, and gameplay.
