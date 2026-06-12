@@ -34,6 +34,12 @@ I'm always exploring new tools and pushing boundaries to see what's possible. Wh
 
 ---
 
+## 🎯 Influences & Inspiration
+
+My game design is shaped by the bold creativity of PS2 classics, the clever level design and humor of Ratchet & Clank, and the rich storytelling of modern narrative-driven AAA titles. I aim to blend those sensibilities into every project I create.
+
+---
+
 ## 🤝 Let's Collaborate
 
 I'm always open to:
