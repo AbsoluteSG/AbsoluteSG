@@ -4,19 +4,6 @@
 
 ---
 
-## 📊 A Glimpse of My Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbsoluteSG&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbsoluteSG&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbsoluteSG&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
-</div>
-
----
-
 ## 🎮 Featured Games
 
 ### **Banana Clicker** 🍌
@@ -64,4 +51,10 @@ Expanding Siphon Games' catalog while exploring new game development frontiers. 
 
 ---
 
-*Thanks for stopping by! Check out my repos, and feel free to reach out. Let's make something cool together. 🎮✨*
+<div align="center">
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AbsoluteSG.AbsoluteSG&left_color=darkgreen&right_color=darkblue)
+
+*Thanks for stopping by! Let's make something cool together. 🎮✨*
+
+</div>
