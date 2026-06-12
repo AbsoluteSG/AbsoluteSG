@@ -4,24 +4,37 @@
 
 ---
 
+## 📊 A Glimpse of My Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbsoluteSG&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbsoluteSG&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbsoluteSG&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
+</div>
+
+---
+
 ## 🎮 Featured Games
 
 ### **Banana Clicker** 🍌
 A comedic idle game with a gacha twist. Collect quirky items and outfit your bananas. It's chaotic, it's fun, it's made of fruit.
 
 ### **No Dogs Allowed** 🐱
-An ambitious metroidvania passion project about Whiskers the cat. His parents have been kidnapped by the Dog Mafia, and only he can save them. Featuring hand-drawn artwork, sharp combat, and clever platforming—still in active development.
+An ambitious metroidvania passion project about Whiskers the cat. His parents have been kidnapped by the Dog Mafia, and only he can save them. Featuring hand-drawn artwork, sharp combat, and clever platforming. Still in active development.
 
 ---
 
 ## 💻 Tech Stack
 
 **Strongest:** C#, C++  
-**Learning:** Rust (currently experimenting with game dev frameworks like Bevy)  
+**Learning:** Rust. Currently experimenting with game dev frameworks like Bevy.  
 **Backend:** Node.js  
 **Tools & Engines:** Unity, Unreal, custom game engines
 
-I'm always exploring new tools and pushing boundaries to see what's possible. Whether it's command-line games or full-scale indie titles, I enjoy the entire creative process—from initial concept to shipped product.
+I'm always exploring new tools and pushing boundaries to see what's possible. Whether it's command-line games or full-scale indie titles, I enjoy the entire creative process from initial concept to shipped product.
 
 ---
 
@@ -47,7 +60,7 @@ I'm always open to:
 
 ## 🚀 Currently Working On
 
-Expanding Siphon Games' catalog while exploring new game development frontiers. If you've got an idea or want to chat about game dev, indie publishing, or just creative tech—let's talk!
+Expanding Siphon Games' catalog while exploring new game development frontiers. If you've got an idea or want to chat about game dev, indie publishing, or just creative tech, let's talk!
 
 ---
 
