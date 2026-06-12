@@ -7,11 +7,11 @@
 
 ## 🎮 Featured Games
 
-<img width="1280" height="720" alt="Banana Clicker -LOGO 1280x720" src="https://github.com/user-attachments/assets/4ea867ef-9686-48ba-8894-bda7b9c2f923" />
+<img width="320" height="180" alt="Banana Clicker -LOGO 1280x720" src="https://github.com/user-attachments/assets/4ea867ef-9686-48ba-8894-bda7b9c2f923" />
 ### **Banana Clicker** 🍌
 A comedic idle game with a gacha twist. Collect quirky items and outfit your bananas. It's chaotic, it's fun, it's made of fruit.
 
-<img width="1920" height="1080" alt="NDA_Title_Illustration_V3" src="https://github.com/user-attachments/assets/dcba9828-1d84-4a00-992e-1d680d6426a8" />
+<img width="320" height="180" alt="NDA_Title_Illustration_V3" src="https://github.com/user-attachments/assets/dcba9828-1d84-4a00-992e-1d680d6426a8" />
 ### **No Dogs Allowed** 🐱
 An ambitious metroidvania passion project about Whiskers the cat. His parents have been kidnapped by the Dog Mafia, and only he can save them. Featuring hand-drawn artwork, sharp combat, and clever platforming. Still in active development.
 
