@@ -10,7 +10,7 @@
 A comedic idle game with a gacha twist. Collect quirky items and outfit your bananas. It's chaotic, it's fun, it's made of fruit.
 
 ### **No Dogs Allowed** 🐱
-A metroidvania passion project about Whiskers the cat. His parents have been kidnapped by the Dog Mafia, and only he can save them. Sharp combat, clever platforming, and a story told through code and pixel art.
+An ambitious metroidvania passion project about Whiskers the cat. His parents have been kidnapped by the Dog Mafia, and only he can save them. Featuring hand-drawn artwork, sharp combat, and clever platforming—still in active development.
 
 ---
 
