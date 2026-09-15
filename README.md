@@ -14,7 +14,7 @@ I like owning a system end to end: requirements, data model, code, deploy, and t
 | **[Tutor Payroll](https://github.com/AbsoluteSG/tutor-payroll)** · Next.js / TypeScript / Postgres / Stripe | Production bookkeeping app for a tutoring business: role-based auth, append-only ledger, one-click Stripe Connect payouts, live-chat queue with presence heartbeat. |
 | **[Vrox](https://github.com/AbsoluteSG/vrox)** · C# / Unity / SpacetimeDB | Server-authoritative multiplayer shooter. Clients send intent at 20 Hz; projectiles are written once and positioned analytically. |
 | **[cmd_zoo](https://github.com/AbsoluteSG/cmd_zoo)** · Rust / Macroquad | Open-world idle zoo sim: chunk streaming, procedural spawns, 100+ hybrid species, post-process shaders, optional online play over a Steam relay. |
-| **[Siphon Games](https://siphongames.vercel.app)** · founder | Small studio; currently leading engineering on a 2D Metroidvania in Unity — movement, combat, level logic, and in-editor content tools for a distributed team. |
+| **[No Dogs Allowed](https://alex-zaalishvili.vercel.app/projects/no-dogs-allowed)** · Unity / C# · Siphon Games | A 2D Metroidvania about cooking, fighting, and a supply chain, in development at my studio. ~55k lines of C# across nine assemblies; I lead engineering and direct a distributed art and music team. |
 
 ## Stack
 
